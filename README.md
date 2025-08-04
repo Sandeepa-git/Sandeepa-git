@@ -1,27 +1,75 @@
-<h1 align="center">Hi there, I'm Sandeepa 👋</h1>
+<h1 align="center">Hi 👋, I'm Sandeepa Wimalasiri</h1>
+<h3 align="center">🚀 Always excited to learn, build, and collaborate!</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Cloud+Engineer+in+the+Making;Next.js+%7C+React+%7C+Tailwind+Wizard;Tech+Tinkerer+%26+Problem+Solver" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=sandeepa-git&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepa-git" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines=Frontend+Dev+%7C+AI+Enthusiast+%7C+Cloud+Explorer;" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌟 About Me
-
-- 🧑‍💻 I’m currently diving deep into **Cloud Computing & Fullstack Web Development**
-- 🚀 Building modern apps with **Next.js**, **Tailwind CSS**, and **TypeScript**
-- ⚙️ Exploring infrastructure with **AWS**, **Docker**, **Kubernetes**, and **Terraform**
-- 🎯 Always looking to improve performance, scalability, and user experience
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/your-link) | [Portfolio](https://your-portfolio-link)
+- 🌱 I’m currently learning **Laravel, Angular, and React.js**
+- 👨‍💻 All of my projects are available on [LinkedIn](https://www.linkedin.com/in/sandeepa-wimalasiri/)
+- 📫 Reach me via: [sandeepa-wimalasiri.vercel.app](https://sandeepa-wimalasiri.vercel.app/)
+- 📄 More about me on [LinkedIn](https://www.linkedin.com/in/sandeepa-wimalasiri/)
+- ⚡ **Fun fact**: I can debug code faster than I can decide what to eat 🍔💻
 
 ---
 
-### 🛠️ Tech Stack
+### 🌐 Connect with me:
 
-```ts
-const stack = {
-  frontend: ['React', 'Next.js', 'Tailwind', 'TypeScript'],
-  backend: ['Node.js', 'Express', 'MongoDB', 'PostgreSQL'],
-  devops: ['Docker', 'Kubernetes', 'AWS', 'CI/CD', 'Terraform'],
-  tools: ['VS Code', 'Git', 'Postman', 'Figma']
-}
+<p align="center">
+  <a href="https://dev.to/sandeepa_vimukthi_750b5b2" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" alt="Dev.to" />
+  </a>
+  <a href="https://www.linkedin.com/in/sandeepa-wimalasiri/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/sandeepa.vimukthi.12" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/_p_a_t_h_f_i_n_d_e_r_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram" />
+  </a>
+</p>
+
+
+
+---
+
+### 🧰 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,flutter,laravel,nextjs,tailwind,html,css,js,ts,java,cpp,python,c,mysql,mongodb,firebase,aws,gcp,docker,tensorflow,git,github,vscode" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sandeepa-git&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeepa-git&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepa-git&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepa-git&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### ☕ Support Me
+
+<p align="center">
+  <a href="https://ko-fi.com/Manage" target="_blank">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="Buy Me A Coffee" />
+  </a>
+</p>
