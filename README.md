@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Laravel, Angular, and React.js**
 - 👨‍💻 All of my projects are available on [LinkedIn](https://www.linkedin.com/in/sandeepa-wimalasiri/)
-- 📫 Reach me via: [Email](agsvwimalasiri@gmail.com)
+- 📫 Reach me via: [Sandeepa Wimalasiri](https://sandeepa-wimalasiri.vercel.app/)
 - 📄 More about me on [LinkedIn](https://www.linkedin.com/in/sandeepa-wimalasiri/)
 - ⚡ **Fun fact**: I can debug code faster than I can decide what to eat 🍔💻
 
