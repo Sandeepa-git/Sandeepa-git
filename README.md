@@ -34,7 +34,7 @@
 ###  Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,flutter,laravel,nextjs,tailwind,html,css,js,ts,java,cpp,python,c,mysql,mongodb,firebase,aws,gcp,docker,tensorflow,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,angular,flutter,laravel,nextjs,tailwind,html,css,js,ts,java,cpp,python,c,mysql,mongodb,firebase,aws,gcp,docker,tensorflow,git,github,vscode,Azure" />
 </p>
 
 ---
