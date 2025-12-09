@@ -1,27 +1,27 @@
-<h1 align="center">Hi, I'm Sandeepa Wimalasiri 👋</h1>
-<h3 align="center">Always excited to learn, build, and collaborate! 🚀</h3>
+<h1 align="center">Hi, I'm Sandeepa Wimalasiri</h1>
+<h3 align="center">Always excited to learn, build, and collaborate!</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sandeepa-git&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepa-git" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines=Frontend+Dev+%7C+AI+Enthusiast+%7C+Cloud+Explorer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines=Frontend+Developer+%7C+AI+Enthusiast+%7C+Cloud+Explorer;" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📚 About Me
+### Professional Summary
 
-* 🧠 I’m currently learning: **Laravel, Angular, and React.js**
-* 💻 All of my projects are available on [LinkedIn](https://www.linkedin.com/in/sandeepa-wimalasiri/)
-* 🌐 Reach me via my personal website: [Sandeepa Wimalasiri](https://sandeepa-wimalasiri.vercel.app/)
-* 🔗 More about me on [LinkedIn](https://www.linkedin.com/in/sandeepa-wimalasiri/)
-* 😂 **Fun fact**: I can debug code faster than I can decide what to eat 🍔💻
+* I’m currently focused on mastering: **Laravel, Angular, and React.js**
+* My professional projects portfolio is available on [LinkedIn](https://www.linkedin.com/in/sandeepa-wimalasiri/)
+* Direct contact and portfolio: [Sandeepa Wimalasiri](https://sandeepa-wimalasiri.vercel.app/)
+* Connect with me for opportunities via [LinkedIn](https://www.linkedin.com/in/sandeepa-wimalasiri/)
+* **Note**: I can debug code efficiently and focus on delivering high-quality solutions.
 
 ---
 
-### 🤝 Connect with Me
+### Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sandeepa-wimalasiri/" target="_blank">
@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Core Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,angular,flutter,laravel,nextjs,tailwind,html,css,js,ts,java,cpp,python,c,mysql,mongodb,firebase,aws,azure,gcp,docker,tensorflow,git,github,vscode" />
@@ -39,15 +39,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandeepa-git&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📊 GitHub Stats
+### GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sandeepa-git&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -57,7 +49,7 @@
 
 ---
 
-### ☕ Support My Work
+### Support
 
 <p align="center">
   <a href="https://ko-fi.com/Manage" target="_blank">
