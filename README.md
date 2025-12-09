@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Sandeepa Wimalasiri</h1>
-<h3 align="center">Always excited to learn, build, and collaborate!</h3>
+<h1 align="center">Hi, I'm Sandeepa Wimalasiri 👋</h1>
+<h3 align="center">Always excited to learn, build, and collaborate! 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sandeepa-git&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepa-git" />
@@ -11,15 +11,17 @@
 
 ---
 
-- I’m currently learning **Laravel, Angular, and React.js**
-- All of my projects are available on [LinkedIn](https://www.linkedin.com/in/sandeepa-wimalasiri/)
-- Reach me via: [Sandeepa Wimalasiri](https://sandeepa-wimalasiri.vercel.app/)
-- More about me on [LinkedIn](https://www.linkedin.com/in/sandeepa-wimalasiri/)
-- **Fun fact**: I can debug code faster than I can decide what to eat 🍔💻
+### 📚 About Me
+
+* 🧠 I’m currently learning: **Laravel, Angular, and React.js**
+* 💻 All of my projects are available on [LinkedIn](https://www.linkedin.com/in/sandeepa-wimalasiri/)
+* 🌐 Reach me via my personal website: [Sandeepa Wimalasiri](https://sandeepa-wimalasiri.vercel.app/)
+* 🔗 More about me on [LinkedIn](https://www.linkedin.com/in/sandeepa-wimalasiri/)
+* 😂 **Fun fact**: I can debug code faster than I can decide what to eat 🍔💻
 
 ---
 
-### Connect with me:
+### 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sandeepa-wimalasiri/" target="_blank">
@@ -29,7 +31,7 @@
 
 ---
 
-### Languages & Tools
+### 🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,angular,flutter,laravel,nextjs,tailwind,html,css,js,ts,java,cpp,python,c,mysql,mongodb,firebase,aws,azure,gcp,docker,tensorflow,git,github,vscode" />
@@ -37,25 +39,25 @@
 
 ---
 
-### GitHub Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandeepa-git&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sandeepa-git&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeepa-git&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepa-git&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepa-git&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeepa-git&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepa-git&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepa-git&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### ☕ Support Me
+### ☕ Support My Work
 
 <p align="center">
   <a href="https://ko-fi.com/Manage" target="_blank">
