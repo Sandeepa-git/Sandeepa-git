@@ -1,91 +1,106 @@
-<h1 align="center">Hi, I'm Sandeepa Wimalasiri</h1>
+<h1 align="center">Hi 👋, I'm Sandeepa Wimalasiri</h1>
 <h3 align="center">Always excited to learn, build, and collaborate!</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandeepa-git&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines=Frontend+Developer+%7C+AI+Enthusiast+%7C+Cloud+Explorer;"
-    alt="Typing SVG"
-  />
+  <img src="https://komarev.com/ghpvc/?username=sandeepa-git&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 ---
 
-### Professional Summary
+## 🔥 About Me
 
-- I’m currently focused on mastering: **Laravel, Angular, and React.js**
-- My professional projects portfolio is available on [LinkedIn](https://www.linkedin.com/in/sandeepa-wimalasiri/)
-- Direct contact and portfolio: [Sandeepa Wimalasiri](https://sandeepa-wimalasiri.vercel.app/)
-- Connect with me for opportunities via [LinkedIn](https://www.linkedin.com/in/sandeepa-wimalasiri/)
-- **Note**: I can debug code efficiently and focus on delivering high-quality solutions.
+- 🔭 I’m currently working on **Cloud Projects & Frontend UI Systems**
+- 👯 I’m looking to collaborate on **Any Full-Stack or Cloud projects**
+- 🤝 I’m looking for help with **Large-scale cloud architecture**
+- 🌱 I’m currently learning **Laravel, Angular, and React.js**
+- 💬 Ask me about **React, Vue, GSAP Animations**
+- 📫 Contact me: **https://sandeepa-wimalasiri.vercel.app/**
+- 👨‍💻 All of my projects are on **LinkedIn**:  
+  https://www.linkedin.com/in/sandeepa-wimalasiri/
+- 📄 Know about my experience:  
+  https://www.linkedin.com/in/sandeepa-wimalasiri/
+- ⚡ Fun fact: **I can debug code faster than deciding what to eat 🍔💻**
 
 ---
 
-### Connect
+## 💻 Skills
+
+### **Programming Languages**
+`C` · `C++` · `C#` · `Go` · `Java` · `JavaScript` · `TypeScript` ·  
+`PHP` · `Python` · `Ruby` · `Scala` · `Swift` · `Rust` · `Haskell`
+
+### **Frontend Development**
+`React` · `Angular` · `Vue` · `Svelte` · `Tailwind` · `HTML5` · `CSS3` ·  
+`Bootstrap` · `Sass` · `Webpack` · `Redux` · `Materialize`
+
+### **Backend Development**
+`Node.js` · `Express` · `Spring` · `GraphQL` · `NestJS` · `Nginx`
+
+### **Mobile Development**
+`Flutter` · `Kotlin` · `React Native` · `Android`
+
+### **AI / ML**
+`TensorFlow` · `Pandas` · `Seaborn` · `OpenCV` · `Scikit-Learn`
+
+### **Databases**
+`MongoDB` · `MySQL` · `PostgreSQL` · `Redis` · `Oracle` · `SQLite`
+
+### **DevOps**
+`AWS` · `Azure` · `GCP` · `Docker` · `Kubernetes` · `Jenkins`
+
+### **Visualization**
+`Grafana` · `Kibana` · `D3.js` · `Chart.js`
+
+### **Other Technologies**
+`Firebase` · `Git` · `Linux` · `Figma` · `Postman`
+
+---
+
+## 🚀 Languages & Tools (Icons)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sandeepa-wimalasiri/" target="_blank" rel="noopener">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      height="30" width="40" alt="LinkedIn"
-    />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,angular,flutter,laravel,nextjs,tailwind,html,css,js,ts,java,cpp,python,c,mysql,mongodb,firebase,aws,azure,gcp,docker,tensorflow,git,github,vscode" />
 </p>
 
 ---
 
-### Core Languages & Tools
+## 🌐 Socials
 
 <p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=react,angular,flutter,laravel,nextjs,tailwind,html,css,js,ts,java,cpp,python,c,mysql,mongodb,firebase,aws,azure,gcp,docker,tensorflow,git,github,vscode"
-    alt="Skills icons"
-  />
+  <a href="https://github.com/sandeepa-git"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+  <a href="https://www.linkedin.com/in/sandeepa-wimalasiri/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="https://dev.to/sandeepa_vimukthi_750b5b2"><img src="https://skillicons.dev/icons?i=devto" height="45"/></a>
+  <a href="https://web.facebook.com/sandeepa.vimukthi.12"><img src="https://skillicons.dev/icons?i=facebook" height="45"/></a>
+  <a href="https://www.instagram.com/_p_a_t_h_f_i_n_d_e_r_/"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
 </p>
 
 ---
 
-### GitHub Recognition (Trophies)
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=sandeepa-git&theme=dark&no-frame=true&no-bg=true&margin-w=10"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=sandeepa-git&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-### GitHub Metrics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sandeepa-git&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepa-git&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepa-git&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeepa-git&theme=tokyonight&show_icons=true&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepa-git&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepa-git&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
 
-### Support
+## ☕ Support Me
 
 <p align="center">
-  <a href="https://ko-fi.com/Manage" target="_blank" rel="noopener">
-    <img 
-      src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
-      height="40"
-      alt="Buy Me A Coffee"
-    />
+  <a href="https://ko-fi.com/Manage" target="_blank">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45" alt="Ko-fi" />
   </a>
 </p>
