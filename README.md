@@ -2,7 +2,7 @@
 <h3 align="center">Always excited to learn, build, and collaborate!</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandeepa-git&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepa-git" />
+  <img src="https://komarev.com/ghpvc/?username=sandeepa-git&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -13,19 +13,20 @@
 
 ### Professional Summary
 
-* I’m currently focused on mastering: **Laravel, Angular, and React.js**
-* My professional projects portfolio is available on [LinkedIn](https://www.linkedin.com/in/sandeepa-wimalasiri/)
-* Direct contact and portfolio: [Sandeepa Wimalasiri](https://sandeepa-wimalasiri.vercel.app/)
-* Connect with me for opportunities via [LinkedIn](https://www.linkedin.com/in/sandeepa-wimalasiri/)
-* **Note**: I can debug code efficiently and focus on delivering high-quality solutions.
+- I’m currently focused on mastering: **Laravel, Angular, and React.js**
+- My professional projects portfolio is available on [LinkedIn](https://www.linkedin.com/in/sandeepa-wimalasiri/)
+- Direct contact and portfolio: [Sandeepa Wimalasiri](https://sandeepa-wimalasiri.vercel.app/)
+- Connect with me for opportunities via [LinkedIn](https://www.linkedin.com/in/sandeepa-wimalasiri/)
+- **Note**: I can debug code efficiently and focus on delivering high-quality solutions.
 
 ---
 
 ### Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sandeepa-wimalasiri/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/sandeepa-wimalasiri/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         height="30" width="40" alt="LinkedIn" />
   </a>
 </p>
 
@@ -34,7 +35,8 @@
 ### Core Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,flutter,laravel,nextjs,tailwind,html,css,js,ts,java,cpp,python,c,mysql,mongodb,firebase,aws,azure,gcp,docker,tensorflow,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,angular,flutter,laravel,nextjs,tailwind,html,css,js,ts,java,cpp,python,c,mysql,mongodb,firebase,aws,azure,gcp,docker,tensorflow,git,github,vscode"
+       alt="Skills icons" />
 </p>
 
 ---
@@ -60,7 +62,33 @@
 ### Support
 
 <p align="center">
-  <a href="https://ko-fi.com/Manage" target="_blank">
+  <a href="https://ko-fi.com/Manage" target="_blank" rel="noopener">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="Buy Me A Coffee" />
   </a>
 </p>
+
+---
+
+## Notes & Troubleshooting
+
+1. **If images/badges don't appear**:
+   - Make sure the repo is public (or that the image host allows embedding into your repo).
+   - All image links here use HTTPS — if any service is down (rare), images will fail to load; try again later or replace with an alternative host.
+   - Some third-party image services (e.g., free Heroku endpoints) may occasionally be offline. If the streak badge fails, try removing it or replacing with another streak provider.
+
+2. **To make this README appear in your GitHub profile**:
+   - Create a repository named **exactly** `sandeepa-git` (your GitHub username).
+   - Put this `README.md` file in the root of that repository.
+   - GitHub will then display it on your profile page.
+
+3. **Accessibility**:
+   - All images have `alt` text so screen readers can describe them.
+
+---
+
+If you'd like, I can:
+- replace any of those badge endpoints with alternatives (if you prefer more reliable hosts),
+- convert the HTML alignment to pure Markdown where possible,
+- or create a visually different layout (dark/light theme choices).
+
+Which one do you want next?
