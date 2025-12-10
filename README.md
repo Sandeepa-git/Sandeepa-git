@@ -7,7 +7,7 @@
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/empty?url=https://readme-typing-svg.demolab.com?cache_seconds=0&font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines=Frontend+Developer+%7C+AI+Enthusiast+%7C+Cloud+Explorer;"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines=Frontend+Developer+%7C+AI+Enthusiast+%7C+Cloud+Explorer;"
     alt="Typing SVG"
   />
 </p>
@@ -29,8 +29,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sandeepa-wimalasiri/" target="_blank" rel="noopener">
     <img 
-      src="https://raw.githubusercontent.com/empty?url=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      height="30" width="40" alt="LinkedIn" 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      height="30" width="40" alt="LinkedIn"
     />
   </a>
 </p>
@@ -41,8 +41,8 @@
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/empty?url=https://skillicons.dev/icons?i=react,angular,flutter,laravel,nextjs,tailwind,html,css,js,ts,java,cpp,python,c,mysql,mongodb,firebase,aws,azure,gcp,docker,tensorflow,git,github,vscode&cache_seconds=0"
-    alt="Skills icons" 
+    src="https://skillicons.dev/icons?i=react,angular,flutter,laravel,nextjs,tailwind,html,css,js,ts,java,cpp,python,c,mysql,mongodb,firebase,aws,azure,gcp,docker,tensorflow,git,github,vscode"
+    alt="Skills icons"
   />
 </p>
 
@@ -52,7 +52,7 @@
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/empty?url=https://github-profile-trophy.vercel.app/?username=sandeepa-git&theme=dark&no-frame=true&no-bg=true&margin-w=10"
+    src="https://github-profile-trophy.vercel.app/?username=sandeepa-git&theme=dark&no-frame=true&no-bg=true&margin-w=10"
     alt="GitHub Trophies"
   />
 </p>
@@ -63,16 +63,16 @@
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/empty?url=https://github-readme-stats.vercel.app/api?username=sandeepa-git&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=sandeepa-git&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
   <img 
-    src="https://raw.githubusercontent.com/empty?url=https://github-readme-streak-stats.herokuapp.com/?user=sandeepa-git&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepa-git&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
   <img 
-    src="https://raw.githubusercontent.com/empty?url=https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepa-git&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepa-git&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
   />
 </p>
 
@@ -83,16 +83,9 @@
 <p align="center">
   <a href="https://ko-fi.com/Manage" target="_blank" rel="noopener">
     <img 
-      src="https://raw.githubusercontent.com/empty?url=https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
-      height="40" 
-      alt="Buy Me A Coffee" 
+      src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
+      height="40"
+      alt="Buy Me A Coffee"
     />
   </a>
 </p>
-
----
-
-### ⚠️ Why this version works
-GitHub sometimes blocks external images.  
-Using this format:
-
