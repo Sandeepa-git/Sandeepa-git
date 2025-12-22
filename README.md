@@ -10,18 +10,57 @@
 <h2>About Me</h2>
 
 <p>
-I am a passionate software engineer with a strong interest in cloud computing and modern frontend systems.
-I enjoy building scalable solutions, learning new technologies, and collaborating with teams to solve real-world problems.
+I am a software engineer with a strong focus on cloud computing and modern frontend systems.
+I enjoy building scalable applications, learning new technologies, and collaborating on impactful projects.
 </p>
 
 <ul>
   <li>Currently working on <strong>Cloud Projects and Frontend UI Systems</strong></li>
   <li>Open to collaborating on <strong>Full-Stack and Cloud-based projects</strong></li>
-  <li>Interested in learning and contributing to <strong>large-scale cloud architectures</strong></li>
-  <li>Actively learning <strong>Laravel, Angular, and React.js</strong></li>
+  <li>Interested in <strong>large-scale cloud architecture design</strong></li>
+  <li>Currently learning <strong>Laravel, Angular, and React.js</strong></li>
   <li>Experienced with <strong>React, Vue, and GSAP animations</strong></li>
   <li>Portfolio: <a href="https://sandeepa-wimalasiri.vercel.app/">https://sandeepa-wimalasiri.vercel.app/</a></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/sandeepa-wimalasiri/">https://www.linkedin.com/in/sandeepa-wimalasiri/</a></li>
+</ul>
+
+<hr/>
+
+<h2>GitHub Overview (Digital Stats)</h2>
+
+<p>
+  <strong>Username:</strong> sandeepa-git
+</p>
+
+<p>
+  <a href="https://github.com/sandeepa-git?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repositories-Count-blue" />
+  </a>
+  <a href="https://github.com/sandeepa-git?tab=stars">
+    <img src="https://img.shields.io/badge/Total%20Stars-Count-blue" />
+  </a>
+  <a href="https://github.com/sandeepa-git?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-Count-blue" />
+  </a>
+</p>
+
+<p>
+  View full contribution history:
+  <a href="https://github.com/sandeepa-git">
+    https://github.com/sandeepa-git
+  </a>
+</p>
+
+<hr/>
+
+<h2>GitHub Achievements</h2>
+
+<ul>
+  <li>Consistent contributor across frontend, backend, and cloud projects</li>
+  <li>Experience building production-level CI/CD pipelines</li>
+  <li>Hands-on work with AWS, Azure, and Google Cloud Platform</li>
+  <li>Strong focus on clean architecture and scalable systems</li>
+  <li>Active in learning, experimenting, and improving engineering practices</li>
 </ul>
 
 <hr/>
@@ -50,7 +89,7 @@ Node.js, Express, Spring, GraphQL, NestJS, Nginx
 Flutter, Kotlin, React Native, Android
 </p>
 
-<h3>Artificial Intelligence and Machine Learning</h3>
+<h3>AI and Machine Learning</h3>
 <p>
 TensorFlow, Pandas, Seaborn, OpenCV, Scikit-Learn
 </p>
@@ -65,7 +104,7 @@ MongoDB, MySQL, PostgreSQL, Redis, Oracle, SQLite
 AWS, Azure, Google Cloud Platform, Docker, Kubernetes, Jenkins
 </p>
 
-<h3>Data Visualization and Monitoring</h3>
+<h3>Monitoring and Visualization</h3>
 <p>
 Grafana, Kibana, D3.js, Chart.js
 </p>
@@ -103,27 +142,6 @@ Firebase, Git, Linux, Figma, Postman
   <a href="https://www.instagram.com/_p_a_t_h_f_i_n_d_e_r_/">
     <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
-</p>
-
-<hr/>
-
-<h2>GitHub Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandeepa-git&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
-
-<hr/>
-
-<h2>GitHub Statistics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeepa-git&theme=tokyonight&show_icons=true&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepa-git&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepa-git&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <hr/>
