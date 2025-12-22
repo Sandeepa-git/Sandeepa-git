@@ -28,12 +28,6 @@
   <a href="https://www.linkedin.com/in/sandeepa-wimalasiri/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/sandeepa.vimukthi.12" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/_p_a_t_h_f_i_n_d_e_r_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram" />
-  </a>
 </p>
 
 
