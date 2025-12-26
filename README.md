@@ -42,15 +42,6 @@
 
 ---
 
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeepa-git&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepa-git&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepa-git&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ###  Support Me
 
