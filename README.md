@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Sandeepa Wimalasiri</h1>
 <h3 align="center"> Always excited to learn, build, and collaborate!</h3>
 
@@ -14,7 +13,6 @@
 
 -  I’m currently learning **Laravel, Angular, and React.js**
 -  All of my projects are available on [LinkedIn](https://www.linkedin.com/in/sandeepa-wimalasiri/)
--  Reach me via: [Sandeepa Wimalasiri](https://sandeepa-wimalasiri.vercel.app/)
 -  More about me on [LinkedIn](https://www.linkedin.com/in/sandeepa-wimalasiri/)
 -  **Fun fact**: I can debug code faster than I can decide what to eat
 
