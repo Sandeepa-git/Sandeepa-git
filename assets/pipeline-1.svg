@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="210" viewBox="0 0 1600 210" role="img" aria-label="Octocat at the Commit stage of the pipeline">
+  <defs>
+    <linearGradient id="done" x1="0" x2="1"><stop offset="0" stop-color="#28c840" stop-opacity=".5"/><stop offset="1" stop-color="#28c840"/></linearGradient>
+  </defs>
+  <g font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace">
+    <line x1="170" y1="140" x2="1430" y2="140" stroke="#2a3346" stroke-width="6" stroke-linecap="round"/><circle cx="170" cy="140" r="22" fill="#F7941D" fill-opacity=".15"/><circle cx="170" cy="140" r="15" fill="#2a1a08" stroke="#F7941D" stroke-width="3"/><text x="170" y="184" text-anchor="middle" font-size="17" font-weight="700" fill="#F7941D">Commit</text><circle cx="380" cy="140" r="13" fill="#0b0f18" stroke="#3a4458" stroke-width="3"/><text x="380" y="184" text-anchor="middle" font-size="17" font-weight="500" fill="#5c6478">Build</text><circle cx="590" cy="140" r="13" fill="#0b0f18" stroke="#3a4458" stroke-width="3"/><text x="590" y="184" text-anchor="middle" font-size="17" font-weight="500" fill="#5c6478">Test</text><circle cx="800" cy="140" r="13" fill="#0b0f18" stroke="#3a4458" stroke-width="3"/><text x="800" y="184" text-anchor="middle" font-size="17" font-weight="500" fill="#5c6478">Review</text><circle cx="1010" cy="140" r="13" fill="#0b0f18" stroke="#3a4458" stroke-width="3"/><text x="1010" y="184" text-anchor="middle" font-size="17" font-weight="500" fill="#5c6478">Merge</text><circle cx="1220" cy="140" r="13" fill="#0b0f18" stroke="#3a4458" stroke-width="3"/><text x="1220" y="184" text-anchor="middle" font-size="17" font-weight="500" fill="#5c6478">Deploy</text><circle cx="1430" cy="140" r="13" fill="#0b0f18" stroke="#3a4458" stroke-width="3"/><text x="1430" y="184" text-anchor="middle" font-size="17" font-weight="500" fill="#5c6478">Live</text>
+    <g transform="translate(130 14)">
+      <ellipse cx="40" cy="108" rx="34" ry="6" fill="#000" fill-opacity=".45"/>
+      <g fill="#2d333b" stroke="#7cc0ff" stroke-opacity=".6" stroke-width="2">
+        <path d="M18 74 q-10 20 -22 26 q-4 2 -2 6 q14 0 30 -24 Z"/>
+        <path d="M30 82 q-2 16 -10 24 q-2 4 2 5 q14 -6 18 -27 Z"/>
+        <path d="M50 82 q2 16 10 24 q2 4 -2 5 q-14 -6 -18 -27 Z"/>
+        <path d="M62 74 q10 20 22 26 q4 2 2 6 q-14 0 -30 -24 Z"/>
+        <path d="M8 30 L12 4 Q13 0 17 2 L30 13 Q40 10 50 13 L63 2 Q67 0 68 4 L72 30 Q78 44 75 58 Q72 86 40 92 Q8 86 5 58 Q2 44 8 30 Z"/>
+      </g>
+      <path d="M14 46 Q14 32 28 32 Q40 35 52 32 Q66 32 66 46 Q66 72 40 73 Q14 72 14 46 Z" fill="#f1c9a5"/>
+      <ellipse cx="29" cy="50" rx="7" ry="9" fill="#ad5c51"/>
+      <ellipse cx="51" cy="50" rx="7" ry="9" fill="#ad5c51"/>
+      <ellipse cx="30" cy="51" rx="3.4" ry="4.6" fill="#24292f"/>
+      <ellipse cx="52" cy="51" rx="3.4" ry="4.6" fill="#24292f"/>
+      <circle cx="31" cy="48" r="1.3" fill="#fff"/><circle cx="53" cy="48" r="1.3" fill="#fff"/>
+      <ellipse cx="40" cy="60" rx="3" ry="2" fill="#ad5c51"/>
+      <path d="M36 64 Q40 67 44 64" fill="none" stroke="#ad5c51" stroke-width="1.6" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>

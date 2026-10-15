@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<p align="center"><img width="100%" src="./assets/bird-1.svg" alt="" /></p>
+<p align="center"><img width="100%" alt="Octocat moving through the CI/CD pipeline" src="./assets/pipeline-1.svg" /></p>
 
 <!-- ========================================================= -->
 <!--                        INTRO                              -->
@@ -43,7 +43,7 @@ real results and shipping things people actually use.
 </table>
 
 <p>
-<strong>Microsoft Student Ambassador</strong> · SLTC Research University<br>
+<a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/b3b04af9-2237-4437-834d-ba28cef3ea1c"><strong>Microsoft Student Ambassador</strong></a> · SLTC Research University<br>
 Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog</a><br>
 <em>Fun fact: I can debug code faster than I can decide what to eat.</em>
 </p>
@@ -55,6 +55,8 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
 
 <br><br>
 
+<a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/b3b04af9-2237-4437-834d-ba28cef3ea1c"><img src="https://img.shields.io/badge/Microsoft-Student%20Ambassador-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Student Ambassador" /></a>
+<br>
 <a href="https://sandeepa.online/#contact"><img src="https://img.shields.io/badge/Hire%20me-F7941D?style=for-the-badge&logo=rocket&logoColor=white" alt="Hire me" /></a>
 <img src="https://komarev.com/ghpvc/?username=sandeepa-git&label=Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
@@ -62,7 +64,7 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
 </tr>
 </table>
 
-<p align="center"><img width="100%" src="./assets/bird-2.svg" alt="" /></p>
+<p align="center"><img width="100%" alt="Octocat moving through the CI/CD pipeline" src="./assets/pipeline-2.svg" /></p>
 
 <!-- ========================================================= -->
 <!--                   TECHNOLOGY MATRIX                       -->
@@ -72,7 +74,7 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
   <img width="100%" src="./assets/stack.svg" alt="Technology matrix" />
 </p>
 
-<p align="center"><img width="100%" src="./assets/bird-3.svg" alt="" /></p>
+<p align="center"><img width="100%" alt="Octocat moving through the CI/CD pipeline" src="./assets/pipeline-3.svg" /></p>
 
 <!-- ========================================================= -->
 <!--                      WHAT I BUILD                         -->
@@ -82,7 +84,7 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
   <img width="100%" src="./assets/services.svg" alt="From idea to the cloud: websites, AI chatbots, cloud & DevOps, online stores" />
 </p>
 
-<p align="center"><img width="100%" src="./assets/bird-4.svg" alt="" /></p>
+<p align="center"><img width="100%" alt="Octocat moving through the CI/CD pipeline" src="./assets/pipeline-4.svg" /></p>
 
 <!-- ========================================================= -->
 <!--                     FEATURED WORK                         -->
@@ -119,7 +121,7 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
 
 <p align="center"><a href="https://sandeepa.online/portfolio"><b>Explore all projects →</b></a></p>
 
-<p align="center"><img width="100%" src="./assets/bird-5.svg" alt="" /></p>
+<p align="center"><img width="100%" alt="Octocat moving through the CI/CD pipeline" src="./assets/pipeline-5.svg" /></p>
 
 <!-- ========================================================= -->
 <!--                      OBSERVABILITY                        -->
@@ -133,14 +135,18 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeepa-git&bg_color=0b0f18&color=F7941D&line=1E90FF&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
+  <img width="96%" src="https://ghchart.rshah.org/F7941D/Sandeepa-git" alt="Contribution chart" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sandeepa-git&theme=dark&hide_border=true&background=0b0f18&ring=F7941D&fire=F7941D&currStreakLabel=F7941D" alt="GitHub streak" />
 </p>
 
 <p align="center">
   <img width="96%" src="https://raw.githubusercontent.com/Sandeepa-git/Sandeepa-git/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </p>
 
-<p align="center"><img width="100%" src="./assets/bird-6.svg" alt="" /></p>
+<p align="center"><img width="100%" alt="Octocat moving through the CI/CD pipeline" src="./assets/pipeline-6.svg" /></p>
 
 <!-- ========================================================= -->
 <!--                        DEV PETS                           -->
@@ -150,7 +156,7 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
   <img width="100%" src="./assets/pets.svg" alt="Dev pets: a cat chasing a bug, a debugging duck, a sleepy dog and a code bird" />
 </p>
 
-<p align="center"><img width="100%" src="./assets/bird-7.svg" alt="" /></p>
+<p align="center"><img width="100%" alt="Octocat moving through the CI/CD pipeline" src="./assets/pipeline-7.svg" /></p>
 
 <!-- ========================================================= -->
 <!--                        CONNECT                            -->
@@ -166,6 +172,6 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
   <a href="https://sandeepa.online"><img src="https://img.shields.io/badge/Website-F7941D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/sandeepa-wimalasiri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://dev.to/sandeepa_vimukthi_750b5b2"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
+  <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/b3b04af9-2237-4437-834d-ba28cef3ea1c"><img src="https://img.shields.io/badge/Microsoft-Student%20Ambassador-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Student Ambassador" /></a>
   <a href="https://medium.com/@agsvwimalasiri"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://ko-fi.com/Manage"><img src="https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" /></a>
 </p>
