@@ -62,6 +62,7 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
 <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/b3b04af9-2237-4437-834d-ba28cef3ea1c"><img src="https://img.shields.io/badge/Microsoft-Student%20Ambassador-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Student Ambassador" /></a>
 <br>
 <a href="https://sandeepa.online/#contact"><img src="https://img.shields.io/badge/Hire%20me-F7941D?style=for-the-badge&logo=rocket&logoColor=white" alt="Hire me" /></a>
+<br>
 <img src="https://komarev.com/ghpvc/?username=sandeepa-git&label=Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
 </div>
