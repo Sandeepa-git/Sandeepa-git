@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="140" viewBox="0 0 1600 140" role="img" aria-label="A bird flying across">
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="140" viewBox="0 0 1600 140" role="img" aria-label="A bird flying down the page">
   <style>
-    @keyframes fly { 0% { transform: translate(-160px, 78px); } 25% { transform: translate(300px, 46px); } 50% { transform: translate(760px, 84px); } 75% { transform: translate(1220px, 40px); } 100% { transform: translate(1760px, 70px); } }
+    @keyframes route { 0%, 14.276% { transform: translate(-200px, 74px); opacity: 0; } 14.286% { transform: translate(-200px, 74px); opacity: 1; } 17.857% { transform: translate(300px, 44px); opacity: 1; } 21.429% { transform: translate(800px, 86px); opacity: 1; } 25.0% { transform: translate(1300px, 42px); opacity: 1; } 28.571% { transform: translate(1800px, 70px); opacity: 1; } 28.581%, 100% { transform: translate(1800px, 70px); opacity: 0; } }
     @keyframes flapUp { 0%,100% { transform: rotate(8deg); } 50% { transform: rotate(-48deg); } }
     @keyframes flapDown { 0%,100% { transform: rotate(-6deg); } 50% { transform: rotate(36deg); } }
     @keyframes tilt { 0%,100% { transform: rotate(-4deg); } 50% { transform: rotate(5deg); } }
     @keyframes trail { to { stroke-dashoffset: -60; } }
-    .path { animation: fly 9s linear -1s infinite; }
+    .path { animation: route 28.0s linear infinite; }
     .body { transform-box: fill-box; transform-origin: 50% 50%; animation: tilt 1.2s ease-in-out infinite; }
     .wingA { transform-box: fill-box; transform-origin: 85% 90%; animation: flapUp .32s ease-in-out infinite; }
     .wingB { transform-box: fill-box; transform-origin: 85% 10%; animation: flapDown .32s ease-in-out infinite; }
@@ -19,8 +19,8 @@
     </linearGradient>
   </defs>
   <rect x="80" y="69" width="1440" height="2" fill="url(#line)"/>
-  <g transform="">
-    <g class="path" transform="translate(760 70)">
+  <g transform="scale(-1 1) translate(-1600 0)">
+    <g class="path" transform="translate(-200 74)">
       <path class="trail" d="M-30 4 L-140 10" fill="none" stroke="#7cc0ff" stroke-opacity=".5" stroke-width="3" stroke-linecap="round"/>
       <g class="body">
         <path class="wingB" d="M-4 4 Q-18 26 -34 22 Q-20 14 -8 2 Z" fill="#1565c0"/>

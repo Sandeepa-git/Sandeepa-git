@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<p align="center"><img width="100%" src="./assets/bird-ltr.svg" alt="" /></p>
+<p align="center"><img width="100%" src="./assets/bird-1.svg" alt="" /></p>
 
 <!-- ========================================================= -->
 <!--                        INTRO                              -->
@@ -62,7 +62,7 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
 </tr>
 </table>
 
-<p align="center"><img width="100%" src="./assets/bird-rtl.svg" alt="" /></p>
+<p align="center"><img width="100%" src="./assets/bird-2.svg" alt="" /></p>
 
 <!-- ========================================================= -->
 <!--                   TECHNOLOGY MATRIX                       -->
@@ -72,7 +72,7 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
   <img width="100%" src="./assets/stack.svg" alt="Technology matrix" />
 </p>
 
-<p align="center"><img width="100%" src="./assets/bird-ltr.svg" alt="" /></p>
+<p align="center"><img width="100%" src="./assets/bird-3.svg" alt="" /></p>
 
 <!-- ========================================================= -->
 <!--                      WHAT I BUILD                         -->
@@ -82,7 +82,7 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
   <img width="100%" src="./assets/services.svg" alt="From idea to the cloud: websites, AI chatbots, cloud & DevOps, online stores" />
 </p>
 
-<p align="center"><img width="100%" src="./assets/bird-rtl.svg" alt="" /></p>
+<p align="center"><img width="100%" src="./assets/bird-4.svg" alt="" /></p>
 
 <!-- ========================================================= -->
 <!--                     FEATURED WORK                         -->
@@ -119,7 +119,7 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
 
 <p align="center"><a href="https://sandeepa.online/portfolio"><b>Explore all projects →</b></a></p>
 
-<p align="center"><img width="100%" src="./assets/bird-ltr.svg" alt="" /></p>
+<p align="center"><img width="100%" src="./assets/bird-5.svg" alt="" /></p>
 
 <!-- ========================================================= -->
 <!--                      OBSERVABILITY                        -->
@@ -140,7 +140,7 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
   <img width="96%" src="https://raw.githubusercontent.com/Sandeepa-git/Sandeepa-git/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </p>
 
-<p align="center"><img width="100%" src="./assets/bird-rtl.svg" alt="" /></p>
+<p align="center"><img width="100%" src="./assets/bird-6.svg" alt="" /></p>
 
 <!-- ========================================================= -->
 <!--                        DEV PETS                           -->
@@ -150,7 +150,7 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
   <img width="100%" src="./assets/pets.svg" alt="Dev pets: a cat chasing a bug, a debugging duck, a sleepy dog and a code bird" />
 </p>
 
-<p align="center"><img width="100%" src="./assets/bird-ltr.svg" alt="" /></p>
+<p align="center"><img width="100%" src="./assets/bird-7.svg" alt="" /></p>
 
 <!-- ========================================================= -->
 <!--                        CONNECT                            -->
