@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="720" viewBox="0 0 720 720" role="img" aria-label="Code editor typing out an about-me object: Cloud and Full-Stack Engineer from Sri Lanka, open to work">
+  <style>
+    text { font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace; font-size: 21px; }
+    .ln { fill: #3d4452; font-size: 17px; }
+    .ui { font-size: 15px; }
+    .code { animation: fade 15.0s linear infinite; }
+    .toast { animation: toast 15.0s ease-out infinite; }
+    .idle { animation: idle 15.0s linear infinite; }
+    .blink { animation: blink 1s step-end infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes glow { 0%,100% { opacity: .35; } 50% { opacity: .8; } }
+    .glow { animation: glow 4s ease-in-out infinite; }
+        @keyframes c0 { 0%, 4.00% { transform: translateX(0); } 6.80%, 100% { transform: translateX(200px); } }
+    @keyframes k0 { 0%, 4.00% { opacity: 0; } 4.07%, 6.80% { opacity: 1; } 6.87%, 100% { opacity: 0; } }
+    .c0 { animation: c0 15.0s linear infinite; } .k0 { animation: k0 15.0s linear infinite; }
+    @keyframes c1 { 0%, 8.00% { transform: translateX(0); } 11.60%, 100% { transform: translateX(251px); } }
+    @keyframes k1 { 0%, 8.00% { opacity: 0; } 8.07%, 11.60% { opacity: 1; } 11.67%, 100% { opacity: 0; } }
+    .c1 { animation: c1 15.0s linear infinite; } .k1 { animation: k1 15.0s linear infinite; }
+    @keyframes c2 { 0%, 12.80% { transform: translateX(0); } 20.40%, 100% { transform: translateX(503px); } }
+    @keyframes k2 { 0%, 12.80% { opacity: 0; } 12.87%, 20.40% { opacity: 1; } 20.47%, 100% { opacity: 0; } }
+    .c2 { animation: c2 15.0s linear infinite; } .k2 { animation: k2 15.0s linear infinite; }
+    @keyframes c3 { 0%, 21.60% { transform: translateX(0); } 26.40%, 100% { transform: translateX(326px); } }
+    @keyframes k3 { 0%, 21.60% { opacity: 0; } 21.67%, 26.40% { opacity: 1; } 26.47%, 100% { opacity: 0; } }
+    .c3 { animation: c3 15.0s linear infinite; } .k3 { animation: k3 15.0s linear infinite; }
+    @keyframes c4 { 0%, 27.60% { transform: translateX(0); } 34.80%, 100% { transform: translateX(478px); } }
+    @keyframes k4 { 0%, 27.60% { opacity: 0; } 27.67%, 34.80% { opacity: 1; } 34.87%, 100% { opacity: 0; } }
+    .c4 { animation: c4 15.0s linear infinite; } .k4 { animation: k4 15.0s linear infinite; }
+    @keyframes c5 { 0%, 36.00% { transform: translateX(0); } 45.00%, 100% { transform: translateX(591px); } }
+    @keyframes k5 { 0%, 36.00% { opacity: 0; } 36.07%, 45.00% { opacity: 1; } 45.07%, 100% { opacity: 0; } }
+    .c5 { animation: c5 15.0s linear infinite; } .k5 { animation: k5 15.0s linear infinite; }
+    @keyframes c6 { 0%, 46.20% { transform: translateX(0); } 50.00%, 100% { transform: translateX(263px); } }
+    @keyframes k6 { 0%, 46.20% { opacity: 0; } 46.27%, 50.00% { opacity: 1; } 50.07%, 100% { opacity: 0; } }
+    .c6 { animation: c6 15.0s linear infinite; } .k6 { animation: k6 15.0s linear infinite; }
+    @keyframes c7 { 0%, 51.20% { transform: translateX(0); } 55.00%, 100% { transform: translateX(263px); } }
+    @keyframes k7 { 0%, 51.20% { opacity: 0; } 51.27%, 55.00% { opacity: 1; } 55.07%, 100% { opacity: 0; } }
+    .c7 { animation: c7 15.0s linear infinite; } .k7 { animation: k7 15.0s linear infinite; }
+    @keyframes c8 { 0%, 56.20% { transform: translateX(0); } 56.60%, 100% { transform: translateX(49px); } }
+    @keyframes k8 { 0%, 56.20% { opacity: 0; } 56.27%, 56.60% { opacity: 1; } 56.67%, 100% { opacity: 0; } }
+    .c8 { animation: c8 15.0s linear infinite; } .k8 { animation: k8 15.0s linear infinite; }
+    @keyframes c10 { 0%, 59.00% { transform: translateX(0); } 63.80%, 100% { transform: translateX(326px); } }
+    @keyframes k10 { 0%, 59.00% { opacity: 0; } 59.07%, 63.80% { opacity: 1; } 63.87%, 100% { opacity: 0; } }
+    .c10 { animation: c10 15.0s linear infinite; } .k10 { animation: k10 15.0s linear infinite; }
+    @keyframes toast { 0%, 67.67% { opacity: 0; transform: translateY(14px); } 70.33%, 93.33% { opacity: 1; transform: none; } 100% { opacity: 0; transform: none; } }
+    @keyframes fade { 0% { opacity: 0; } 3% { opacity: 1; } 94.67% { opacity: 1; } 100% { opacity: 0; } }
+    @keyframes idle { 0%, 65.00% { opacity: 0; } 65.07%, 100% { opacity: 1; } }
+  </style>
+  <defs>
+    <radialGradient id="g1" cx="85%" cy="10%" r="60%"><stop offset="0" stop-color="#F7941D" stop-opacity=".22"/><stop offset="1" stop-color="#F7941D" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="10%" cy="95%" r="60%"><stop offset="0" stop-color="#1E90FF" stop-opacity=".2"/><stop offset="1" stop-color="#1E90FF" stop-opacity="0"/></radialGradient>
+    <clipPath id="win"><rect width="720" height="720" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#win)">
+    <rect width="720" height="720" fill="#0d1117"/>
+
+    <!-- title bar -->
+    <rect width="720" height="46" fill="#161b22"/>
+    <circle cx="26" cy="23" r="7" fill="#ff5f57"/><circle cx="50" cy="23" r="7" fill="#febc2e"/><circle cx="74" cy="23" r="7" fill="#28c840"/>
+    <text x="360" y="29" text-anchor="middle" class="ui" fill="#8b949e">sandeepa — Visual Studio Code</text>
+
+    <!-- tabs -->
+    <rect y="46" width="720" height="42" fill="#0b0f16"/>
+    <rect x="0" y="46" width="176" height="42" fill="#0d1117"/>
+    <rect x="0" y="46" width="176" height="2" fill="#F7941D"/>
+    <text x="22" y="73" class="ui" fill="#3178c6" font-weight="700">TS</text>
+    <text x="50" y="73" class="ui" fill="#e6e9f0">about-me.ts</text>
+    <text x="198" y="73" class="ui" fill="#e3b341" font-weight="700">{}</text>
+    <text x="224" y="73" class="ui" fill="#6e7681">stack.json</text>
+    <text x="362" y="73" class="ui" fill="#6e7681">README.md</text>
+    <line x1="0" y1="88" x2="720" y2="88" stroke="#21262d"/>
+
+    <g class="code">
+            <text x="44" y="150" text-anchor="end" class="ln">1</text>
+      <text x="92" y="150" xml:space="preserve"><tspan fill="#8b949e">// about-me.ts</tspan></text>
+      <g class="c0" transform="translate(200 0)"><rect x="90" y="122" width="800" height="38" fill="#0d1117"/><rect class="k0" x="90" y="126" width="3" height="30" fill="#F7941D" opacity="0"/></g>
+      <text x="44" y="190" text-anchor="end" class="ln">2</text>
+      <text x="92" y="190" xml:space="preserve"><tspan fill="#ff7b72">const </tspan><tspan fill="#F7941D">sandeepa</tspan><tspan fill="#e6e9f0"> = {</tspan></text>
+      <g class="c1" transform="translate(251 0)"><rect x="90" y="162" width="851" height="38" fill="#0d1117"/><rect class="k1" x="90" y="166" width="3" height="30" fill="#F7941D" opacity="0"/></g>
+      <text x="44" y="230" text-anchor="end" class="ln">3</text>
+      <text x="92" y="230" xml:space="preserve"><tspan fill="#79c0ff">  role</tspan><tspan fill="#e6e9f0">: </tspan><tspan fill="#a5d6ff">&quot;Cloud &amp; Full-Stack Engineer&quot;</tspan><tspan fill="#e6e9f0">,</tspan></text>
+      <g class="c2" transform="translate(503 0)"><rect x="90" y="202" width="1103" height="38" fill="#0d1117"/><rect class="k2" x="90" y="206" width="3" height="30" fill="#F7941D" opacity="0"/></g>
+      <text x="44" y="270" text-anchor="end" class="ln">4</text>
+      <text x="92" y="270" xml:space="preserve"><tspan fill="#79c0ff">  location</tspan><tspan fill="#e6e9f0">: </tspan><tspan fill="#a5d6ff">&quot;Sri Lanka&quot;</tspan><tspan fill="#e6e9f0">,</tspan></text>
+      <g class="c3" transform="translate(326 0)"><rect x="90" y="242" width="926" height="38" fill="#0d1117"/><rect class="k3" x="90" y="246" width="3" height="30" fill="#F7941D" opacity="0"/></g>
+      <text x="44" y="310" text-anchor="end" class="ln">5</text>
+      <text x="92" y="310" xml:space="preserve"><tspan fill="#79c0ff">  stack</tspan><tspan fill="#e6e9f0">: [</tspan><tspan fill="#a5d6ff">&quot;Next.js&quot;</tspan><tspan fill="#e6e9f0">, </tspan><tspan fill="#a5d6ff">&quot;Azure&quot;</tspan><tspan fill="#e6e9f0">, </tspan><tspan fill="#a5d6ff">&quot;AI&quot;</tspan><tspan fill="#e6e9f0">],</tspan></text>
+      <g class="c4" transform="translate(478 0)"><rect x="90" y="282" width="1078" height="38" fill="#0d1117"/><rect class="k4" x="90" y="286" width="3" height="30" fill="#F7941D" opacity="0"/></g>
+      <text x="44" y="350" text-anchor="end" class="ln">6</text>
+      <text x="92" y="350" xml:space="preserve"><tspan fill="#79c0ff">  builds</tspan><tspan fill="#e6e9f0">: [</tspan><tspan fill="#a5d6ff">&quot;websites&quot;</tspan><tspan fill="#e6e9f0">, </tspan><tspan fill="#a5d6ff">&quot;chatbots&quot;</tspan><tspan fill="#e6e9f0">, </tspan><tspan fill="#a5d6ff">&quot;stores&quot;</tspan><tspan fill="#e6e9f0">],</tspan></text>
+      <g class="c5" transform="translate(591 0)"><rect x="90" y="322" width="1191" height="38" fill="#0d1117"/><rect class="k5" x="90" y="326" width="3" height="30" fill="#F7941D" opacity="0"/></g>
+      <text x="44" y="390" text-anchor="end" class="ln">7</text>
+      <text x="92" y="390" xml:space="preserve"><tspan fill="#79c0ff">  openToWork</tspan><tspan fill="#e6e9f0">: </tspan><tspan fill="#ff7b72">true</tspan><tspan fill="#e6e9f0">,</tspan></text>
+      <g class="c6" transform="translate(263 0)"><rect x="90" y="362" width="863" height="38" fill="#0d1117"/><rect class="k6" x="90" y="366" width="3" height="30" fill="#F7941D" opacity="0"/></g>
+      <text x="44" y="430" text-anchor="end" class="ln">8</text>
+      <text x="92" y="430" xml:space="preserve"><tspan fill="#79c0ff">  coffee</tspan><tspan fill="#e6e9f0">: </tspan><tspan fill="#79c0ff">Infinity</tspan><tspan fill="#e6e9f0">,</tspan></text>
+      <g class="c7" transform="translate(263 0)"><rect x="90" y="402" width="863" height="38" fill="#0d1117"/><rect class="k7" x="90" y="406" width="3" height="30" fill="#F7941D" opacity="0"/></g>
+      <text x="44" y="470" text-anchor="end" class="ln">9</text>
+      <text x="92" y="470" xml:space="preserve"><tspan fill="#e6e9f0">};</tspan></text>
+      <g class="c8" transform="translate(49 0)"><rect x="90" y="442" width="649" height="38" fill="#0d1117"/><rect class="k8" x="90" y="446" width="3" height="30" fill="#F7941D" opacity="0"/></g>
+      <text x="44" y="510" text-anchor="end" class="ln">10</text>
+      <text x="44" y="550" text-anchor="end" class="ln">11</text>
+      <text x="92" y="550" xml:space="preserve"><tspan fill="#ff7b72">export default </tspan><tspan fill="#F7941D">sandeepa</tspan><tspan fill="#e6e9f0">;</tspan></text>
+      <g class="c10" transform="translate(326 0)"><rect x="90" y="522" width="926" height="38" fill="#0d1117"/><rect class="k10" x="90" y="526" width="3" height="30" fill="#F7941D" opacity="0"/></g>
+      <g class="idle"><rect class="blink" x="396" y="526" width="3" height="30" fill="#F7941D"/></g>
+    </g>
+
+    <rect class="glow" style="mix-blend-mode:screen" width="720" height="720" fill="url(#g1)"/>
+    <rect class="glow" style="mix-blend-mode:screen" width="720" height="720" fill="url(#g2)"/>
+
+    <!-- compile toast -->
+    <g class="toast">
+      <rect x="348" y="570" width="340" height="62" rx="12" fill="#161b22" stroke="#28c840" stroke-opacity=".6"/>
+      <circle cx="380" cy="601" r="13" fill="#28c840" fill-opacity=".18"/>
+      <path d="M374 601 l4 5 8 -10" fill="none" stroke="#28c840" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="404" y="596" class="ui" fill="#e6e9f0" font-weight="700">Compiled successfully</text>
+      <text x="404" y="618" class="ui" fill="#8b949e" font-size="13">0 errors · 0 bugs · ready to ship</text>
+    </g>
+
+    <!-- status bar -->
+    <rect y="686" width="720" height="34" fill="#F7941D"/>
+    <g class="ui" fill="#1a1205" font-size="14" font-weight="600">
+      <text x="18" y="708">main*  ⟳ 0↓ 1↑</text>
+      <text x="702" y="708" text-anchor="end">Ln 11, Col 25   UTF-8   TypeScript</text>
+    </g>
+  </g>
+  <rect x=".75" y=".75" width="718.5" height="718.5" rx="28" fill="none" stroke="#fff" stroke-opacity=".1" stroke-width="1.5"/>
+</svg>

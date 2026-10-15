@@ -51,7 +51,7 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
 </td>
 <td width="42%" align="center">
 
-<img width="100%" src="./assets/octocat.svg" alt="Animated Octocat coding on a laptop" />
+<img width="100%" src="./assets/about-me.svg" alt="Code editor typing out an about-me object: Cloud and Full-Stack Engineer from Sri Lanka, open to work" />
 
 <br><br>
 
