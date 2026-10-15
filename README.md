@@ -135,15 +135,11 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
 </p>
 
 <p align="center">
-  <img width="96%" src="https://ghchart.rshah.org/F7941D/Sandeepa-git" alt="Contribution chart" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Sandeepa-git&theme=dark&hide_border=true&background=0b0f18&ring=F7941D&fire=F7941D&currStreakLabel=F7941D" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="96%" src="https://raw.githubusercontent.com/Sandeepa-git/Sandeepa-git/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  <img width="96%" src="https://raw.githubusercontent.com/Sandeepa-git/Sandeepa-git/output/github-contribution-grid-snake-dark.svg?v=2" alt="Contribution snake" />
 </p>
 
 <p align="center"><img width="100%" alt="Octocat moving through the CI/CD pipeline" src="./assets/pipeline-6.svg" /></p>
