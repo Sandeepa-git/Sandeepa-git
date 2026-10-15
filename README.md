@@ -16,7 +16,7 @@
 
 <table align="center" width="96%">
 <tr>
-<td width="58%" valign="top">
+<td valign="top">
 
 <h2>Building for the web &amp; the cloud</h2>
 
@@ -49,9 +49,13 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
 </p>
 
 </td>
-<td width="42%" align="center">
+</tr>
+</table>
 
-<img width="100%" src="./assets/octocat.svg" alt="Animated Octocat coding on a laptop" />
+<div align="center">
+
+
+<img width="420" src="./assets/octocat.svg" alt="Animated Octocat coding on a laptop" />
 
 <br><br>
 
@@ -60,9 +64,7 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
 <a href="https://sandeepa.online/#contact"><img src="https://img.shields.io/badge/Hire%20me-F7941D?style=for-the-badge&logo=rocket&logoColor=white" alt="Hire me" /></a>
 <img src="https://komarev.com/ghpvc/?username=sandeepa-git&label=Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
-</td>
-</tr>
-</table>
+</div>
 
 <p align="center"><img width="100%" alt="Octocat moving through the CI/CD pipeline" src="./assets/pipeline-2.svg" /></p>
 
