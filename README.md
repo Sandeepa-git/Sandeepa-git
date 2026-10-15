@@ -149,7 +149,7 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="100%" src="./assets/pets.svg" alt="Dev pets: a cat chasing a bug, a debugging duck, a sleepy dog and a code bird" />
+  <img width="100%" src="./assets/pets.svg" alt="Dev pets: a rubber duck giving debugging advice, a cat that never catches the bug, an on-call dog sleeping through a pager alert, and a bird asking to deploy on Friday" />
 </p>
 
 <p align="center"><img width="100%" alt="Octocat moving through the CI/CD pipeline" src="./assets/pipeline-7.svg" /></p>
