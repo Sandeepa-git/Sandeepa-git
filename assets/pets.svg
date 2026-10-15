@@ -1,0 +1,180 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="460" viewBox="0 0 1600 460" role="img" aria-label="My dev pets: a cat chasing a bug, a debugging duck, a sleepy dog and a code bird">
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace; }
+    .sans { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+
+    /* Cat + bug run across the floor */
+    @keyframes run { from { transform: translateX(-820px); } to { transform: translateX(1200px); } }
+    @keyframes hop { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-14px); } }
+    @keyframes legA { 0%,100% { transform: rotate(22deg); } 50% { transform: rotate(-22deg); } }
+    @keyframes legB { 0%,100% { transform: rotate(-22deg); } 50% { transform: rotate(22deg); } }
+    @keyframes tail { 0%,100% { transform: rotate(-18deg); } 50% { transform: rotate(14deg); } }
+    @keyframes flutter { 0%,100% { transform: scaleY(1); } 50% { transform: scaleY(.3); } }
+    .runner { animation: run 11s linear -5s infinite; }
+    .catBody { animation: hop .45s ease-in-out infinite; }
+    .legA { transform-box: fill-box; transform-origin: 50% 0; animation: legA .45s ease-in-out infinite; }
+    .legB { transform-box: fill-box; transform-origin: 50% 0; animation: legB .45s ease-in-out infinite; }
+    .tail { transform-box: fill-box; transform-origin: 100% 100%; animation: tail .9s ease-in-out infinite; }
+    .bug { animation: hop .3s ease-in-out infinite; }
+    .wing { transform-box: fill-box; transform-origin: 50% 100%; animation: flutter .12s linear infinite; }
+
+    /* Duck bobs on its desk */
+    @keyframes bob { 0%,100% { transform: translateY(0) rotate(-3deg); } 50% { transform: translateY(-8px) rotate(3deg); } }
+    @keyframes pop { 0%,60%,100% { opacity: 0; transform: translateY(6px); } 70%,90% { opacity: 1; transform: none; } }
+    .duck { transform-box: fill-box; transform-origin: 50% 100%; animation: bob 2.4s ease-in-out infinite; }
+    .bubble { animation: pop 6s ease-in-out infinite; }
+
+    /* Dog breathes and snores */
+    @keyframes breathe { 0%,100% { transform: scaleY(1); } 50% { transform: scaleY(1.06); } }
+    @keyframes z { 0% { opacity: 0; transform: translate(0,0) scale(.6); } 30% { opacity: 1; } 100% { opacity: 0; transform: translate(30px,-60px) scale(1.2); } }
+    @keyframes wag { 0%,100% { transform: rotate(0); } 50% { transform: rotate(-25deg); } }
+    .dog { transform-box: fill-box; transform-origin: 50% 100%; animation: breathe 3s ease-in-out infinite; }
+    .z1 { animation: z 3s ease-out infinite; }
+    .z2 { animation: z 3s ease-out 1s infinite; }
+    .z3 { animation: z 3s ease-out 2s infinite; }
+    .dtail { transform-box: fill-box; transform-origin: 0% 100%; animation: wag 1.2s ease-in-out infinite; }
+
+    /* Bird glides */
+    @keyframes glide { 0%,100% { transform: translate(0,0); } 25% { transform: translate(40px,-18px); } 50% { transform: translate(80px,0); } 75% { transform: translate(40px,14px); } }
+    @keyframes flap { 0%,100% { transform: rotate(0); } 50% { transform: rotate(-40deg); } }
+    .bird { animation: glide 6s ease-in-out infinite; }
+    .flap { transform-box: fill-box; transform-origin: 0% 100%; animation: flap .35s ease-in-out infinite; }
+
+    @keyframes twinkle { 0%,100% { opacity: .2; } 50% { opacity: .9; } }
+    .s1 { animation: twinkle 3s ease-in-out infinite; }
+    .s2 { animation: twinkle 4s ease-in-out 1s infinite; }
+    .s3 { animation: twinkle 5s ease-in-out 2s infinite; }
+    @keyframes rise { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: none; } }
+    .t1 { animation: rise .8s ease-out .2s both; }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#07090f"/><stop offset="1" stop-color="#101827"/>
+    </linearGradient>
+    <linearGradient id="floor" x1="0" x2="1">
+      <stop offset="0" stop-color="#F7941D" stop-opacity="0"/><stop offset=".5" stop-color="#F7941D" stop-opacity=".6"/><stop offset="1" stop-color="#F7941D" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1600" height="460" rx="36"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1600" height="460" fill="url(#bg)"/>
+    <!-- stars -->
+    <g fill="#fff">
+      <circle class="s1" cx="210" cy="70" r="2"/><circle class="s2" cx="520" cy="120" r="1.6"/>
+      <circle class="s3" cx="860" cy="60" r="2"/><circle class="s1" cx="1180" cy="110" r="1.6"/>
+      <circle class="s2" cx="1420" cy="64" r="2"/><circle class="s3" cx="680" cy="170" r="1.4"/>
+    </g>
+
+    <g class="t1">
+      <text class="mono" x="80" y="80" font-size="20" fill="#F7941D" letter-spacing="6">// DEV PETS</text>
+      <text class="sans" x="78" y="130" font-size="40" font-weight="800" fill="#fff" letter-spacing="-1">The team behind the code</text>
+    </g>
+
+    <!-- floor -->
+    <rect x="0" y="392" width="1600" height="2" fill="url(#floor)"/>
+    <g class="mono" font-size="14" fill="#8b93a7" fill-opacity=".5">
+      <text x="800" y="438" text-anchor="middle">while (alive) { code(); eat(); sleep(); }  ·  pets.status = "200 OK"</text>
+    </g>
+
+    <!-- ===== Debug duck on a mini desk (left) ===== -->
+    <g transform="translate(250 270)">
+      <rect x="-70" y="96" width="160" height="12" rx="4" fill="#2a3346"/>
+      <rect x="-56" y="108" width="10" height="14" fill="#2a3346"/>
+      <rect x="66" y="108" width="10" height="14" fill="#2a3346"/>
+      <!-- laptop -->
+      <rect x="18" y="58" width="62" height="38" rx="4" fill="#1b2232" stroke="#7cc0ff" stroke-opacity=".6"/>
+      <rect x="24" y="64" width="50" height="4" rx="2" fill="#F7941D" fill-opacity=".8"/>
+      <rect x="24" y="72" width="34" height="4" rx="2" fill="#7cc0ff" fill-opacity=".8"/>
+      <rect x="24" y="80" width="42" height="4" rx="2" fill="#28c840" fill-opacity=".8"/>
+      <g class="duck">
+        <ellipse cx="-14" cy="80" rx="38" ry="22" fill="#FFC93C"/>
+        <circle cx="-30" cy="46" r="22" fill="#FFC93C"/>
+        <path d="M-52 46 L-70 52 L-52 56 Z" fill="#F7941D"/>
+        <circle cx="-34" cy="40" r="4" fill="#0b0f18"/>
+        <circle cx="-33" cy="39" r="1.3" fill="#fff"/>
+        <path d="M0 74 Q14 66 18 80" fill="none" stroke="#e8a800" stroke-width="3" stroke-linecap="round"/>
+      </g>
+      <g class="bubble">
+        <rect x="-110" y="-26" width="150" height="40" rx="12" fill="#fff"/>
+        <path d="M-50 14 L-40 26 L-34 14 Z" fill="#fff"/>
+        <text class="mono" x="-35" y="0" text-anchor="middle" font-size="16" fill="#0b0f18">found a bug!</text>
+      </g>
+      <text class="mono" x="0" y="150" text-anchor="middle" font-size="15" fill="#8b93a7">debug.duck</text>
+    </g>
+
+    <!-- ===== Sleepy dog (right) ===== -->
+    <g transform="translate(1290 300)">
+      <ellipse cx="0" cy="92" rx="110" ry="12" fill="#000" fill-opacity=".35"/>
+      <ellipse cx="0" cy="86" rx="100" ry="14" fill="#1E90FF" fill-opacity=".25"/>
+      <g class="dog">
+        <path class="dtail" d="M70 60 Q100 40 104 60" fill="none" stroke="#c98a4b" stroke-width="10" stroke-linecap="round"/>
+        <ellipse cx="10" cy="62" rx="70" ry="28" fill="#d99a5b"/>
+        <circle cx="-58" cy="52" r="28" fill="#d99a5b"/>
+        <ellipse cx="-74" cy="38" rx="11" ry="20" fill="#a86b35" transform="rotate(-20 -74 38)"/>
+        <ellipse cx="-80" cy="60" rx="14" ry="10" fill="#f2c9a0"/>
+        <circle cx="-90" cy="56" r="4" fill="#0b0f18"/>
+        <path d="M-64 48 q6 4 12 0" fill="none" stroke="#0b0f18" stroke-width="2.5" stroke-linecap="round"/>
+        <ellipse cx="-30" cy="84" rx="18" ry="7" fill="#c98a4b"/>
+        <ellipse cx="40" cy="86" rx="18" ry="7" fill="#c98a4b"/>
+      </g>
+      <g class="mono" font-weight="700" fill="#7cc0ff">
+        <text class="z1" x="-60" y="10" font-size="22">z</text>
+        <text class="z2" x="-50" y="0" font-size="28">z</text>
+        <text class="z3" x="-40" y="-10" font-size="34">Z</text>
+      </g>
+      <text class="mono" x="0" y="130" text-anchor="middle" font-size="15" fill="#8b93a7">sleep(8h)</text>
+    </g>
+
+    <!-- ===== Code bird (top middle) ===== -->
+    <g transform="translate(900 150)">
+      <g class="bird">
+        <ellipse cx="0" cy="0" rx="26" ry="18" fill="#7cc0ff"/>
+        <circle cx="20" cy="-10" r="13" fill="#7cc0ff"/>
+        <path d="M32 -10 L44 -6 L32 -2 Z" fill="#F7941D"/>
+        <circle cx="23" cy="-13" r="2.6" fill="#0b0f18"/>
+        <path class="flap" d="M-6 -6 Q-24 -40 -40 -14 Q-22 -16 -6 -2 Z" fill="#1E90FF"/>
+        <path d="M-26 4 L-46 0 L-30 12 Z" fill="#1E90FF"/>
+        <text class="mono" x="-4" y="40" text-anchor="middle" font-size="14" fill="#7cc0ff">&lt;tweet/&gt;</text>
+      </g>
+    </g>
+
+    <!-- ===== Cat chasing a bug (runs across) ===== -->
+    <g transform="translate(560 0)"><g class="runner">
+      <g transform="translate(0 316)">
+        <!-- bug ahead of the cat -->
+        <g transform="translate(150 30)">
+          <g class="bug">
+            <ellipse cx="0" cy="0" rx="12" ry="9" fill="#ff5f57"/>
+            <circle cx="12" cy="-2" r="6" fill="#0b0f18"/>
+            <path class="wing" d="M-6 -6 Q0 -22 6 -6 Z" fill="#fff" fill-opacity=".7"/>
+            <path d="M14 -7 L20 -14 M14 -4 L22 -8" stroke="#0b0f18" stroke-width="1.6"/>
+          </g>
+        </g>
+        <!-- cat -->
+        <g class="catBody">
+          <path class="tail" d="M-6 36 Q-40 30 -36 0" fill="none" stroke="#3b4256" stroke-width="9" stroke-linecap="round"/>
+          <ellipse cx="34" cy="44" rx="44" ry="22" fill="#3b4256"/>
+          <circle cx="86" cy="30" r="22" fill="#3b4256"/>
+          <path d="M70 14 L74 -6 L84 10 Z" fill="#3b4256"/>
+          <path d="M90 10 L100 -6 L104 14 Z" fill="#3b4256"/>
+          <path d="M74 8 L76 -1 L81 7 Z" fill="#F7941D" fill-opacity=".7"/>
+          <path d="M93 7 L99 -1 L101 9 Z" fill="#F7941D" fill-opacity=".7"/>
+          <circle cx="82" cy="28" r="4.5" fill="#F7941D"/>
+          <circle cx="96" cy="28" r="4.5" fill="#F7941D"/>
+          <circle cx="83" cy="28" r="2" fill="#0b0f18"/>
+          <circle cx="97" cy="28" r="2" fill="#0b0f18"/>
+          <path d="M88 36 l2 2 l2 -2" fill="none" stroke="#ff9aa2" stroke-width="2"/>
+          <path d="M100 36 L116 33 M100 39 L116 40" stroke="#8b93a7" stroke-width="1.2"/>
+          <rect class="legA" x="10" y="58" width="9" height="22" rx="4" fill="#2d3344"/>
+          <rect class="legB" x="24" y="58" width="9" height="22" rx="4" fill="#3b4256"/>
+          <rect class="legB" x="50" y="58" width="9" height="22" rx="4" fill="#2d3344"/>
+          <rect class="legA" x="62" y="58" width="9" height="22" rx="4" fill="#3b4256"/>
+        </g>
+        <text class="mono" x="60" y="-14" text-anchor="middle" font-size="14" fill="#F7941D">bug.catch()</text>
+      </g>
+    </g></g>
+
+    <rect x="1" y="1" width="1598" height="458" rx="36" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="2"/>
+  </g>
+</svg>

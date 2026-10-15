@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="720" viewBox="0 0 720 720" role="img" aria-label="Animated Octocat coding on a laptop">
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace; }
+    @keyframes bob { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
+    @keyframes blink { 0%,90%,100% { transform: scaleY(1); } 94% { transform: scaleY(.1); } }
+    @keyframes ear { 0%,100% { transform: rotate(0); } 50% { transform: rotate(-8deg); } }
+    @keyframes wave1 { 0%,100% { transform: rotate(0); } 50% { transform: rotate(14deg); } }
+    @keyframes wave2 { 0%,100% { transform: rotate(0); } 50% { transform: rotate(-14deg); } }
+    @keyframes tapL { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-7px); } }
+    @keyframes tapR { 0%,100% { transform: translateY(-7px); } 50% { transform: translateY(0); } }
+    @keyframes shadow { 0%,100% { transform: scaleX(1); opacity: .45; } 50% { transform: scaleX(.85); opacity: .3; } }
+    @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-14px); } }
+    @keyframes commit { 0% { opacity: 0; transform: translate(0,0); } 20% { opacity: 1; } 100% { opacity: 0; transform: translate(0,-120px); } }
+    @keyframes cursor { 50% { opacity: 0; } }
+    @keyframes glow { 0%,100% { opacity: .6; } 50% { opacity: 1; } }
+    .cat { animation: bob 3s ease-in-out infinite; }
+    .eye { transform-box: fill-box; transform-origin: 50% 50%; animation: blink 4.5s infinite; }
+    .earL { transform-box: fill-box; transform-origin: 80% 100%; animation: ear 3s ease-in-out infinite; }
+    .t1 { transform-box: fill-box; transform-origin: 50% 0; animation: wave1 2.2s ease-in-out infinite; }
+    .t2 { transform-box: fill-box; transform-origin: 50% 0; animation: wave2 2.6s ease-in-out infinite; }
+    .t3 { transform-box: fill-box; transform-origin: 50% 0; animation: wave1 2.4s ease-in-out .4s infinite; }
+    .tapL { animation: tapL .3s ease-in-out infinite; }
+    .tapR { animation: tapR .3s ease-in-out infinite; }
+    .shadow { transform-box: fill-box; transform-origin: 50% 50%; animation: shadow 3s ease-in-out infinite; }
+    .f1 { animation: float 4s ease-in-out infinite; }
+    .f2 { animation: float 5s ease-in-out 1s infinite; }
+    .c1 { animation: commit 3.6s ease-out infinite; }
+    .c2 { animation: commit 3.6s ease-out 1.2s infinite; }
+    .c3 { animation: commit 3.6s ease-out 2.4s infinite; }
+    .cur { animation: cursor 1s step-end infinite; }
+    .screen { animation: glow 2.4s ease-in-out infinite; }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#151d2e"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="45%" r="55%">
+      <stop offset="0" stop-color="#F7941D" stop-opacity=".25"/><stop offset="1" stop-color="#F7941D" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="screenGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#7cc0ff" stop-opacity=".35"/><stop offset="1" stop-color="#7cc0ff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect width="720" height="720" rx="40"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="720" height="720" fill="url(#bg)"/>
+    <circle cx="360" cy="320" r="300" fill="url(#halo)"/>
+
+    <!-- floating git bits -->
+    <g class="f1" transform="translate(110 140)">
+      <rect x="-50" y="-24" width="100" height="48" rx="14" fill="#0b0f18" stroke="#28c840" stroke-opacity=".6"/>
+      <text class="mono" x="0" y="7" text-anchor="middle" font-size="18" fill="#28c840">+128</text>
+    </g>
+    <g class="f2" transform="translate(610 150)">
+      <rect x="-50" y="-24" width="100" height="48" rx="14" fill="#0b0f18" stroke="#ff5f57" stroke-opacity=".6"/>
+      <text class="mono" x="0" y="7" text-anchor="middle" font-size="18" fill="#ff7b72">-42</text>
+    </g>
+    <!-- branch graph -->
+    <g transform="translate(600 330)" stroke-width="4" fill="none">
+      <path d="M0 -50 V50" stroke="#7cc0ff"/>
+      <path d="M0 -10 Q30 -10 30 20 V50" stroke="#F7941D"/>
+      <circle cx="0" cy="-50" r="8" fill="#0b0f18" stroke="#7cc0ff"/>
+      <circle cx="0" cy="-10" r="8" fill="#0b0f18" stroke="#7cc0ff"/>
+      <circle cx="30" cy="30" r="8" fill="#0b0f18" stroke="#F7941D"/>
+      <circle cx="0" cy="50" r="8" fill="#7cc0ff" stroke="#7cc0ff"/>
+    </g>
+
+    <!-- commit dots rising -->
+    <g fill="#28c840">
+      <circle class="c1" cx="120" cy="470" r="7"/>
+      <circle class="c2" cx="150" cy="470" r="5"/>
+      <circle class="c3" cx="100" cy="470" r="6"/>
+    </g>
+
+    <!-- shadow -->
+    <ellipse class="shadow" cx="360" cy="600" rx="170" ry="16" fill="#000"/>
+
+    <g class="cat">
+      <!-- tentacles -->
+      <g fill="#2d333b" stroke="#7cc0ff" stroke-opacity=".55" stroke-width="3">
+        <path class="t1" d="M262 470 q-30 50 -70 60 q-14 4 -10 14 q40 4 92 -62 Z"/>
+        <path class="t2" d="M300 490 q-6 54 -36 82 q-10 10 0 16 q42 -20 54 -94 Z"/>
+        <path class="t3" d="M420 490 q6 54 36 82 q10 10 0 16 q-42 -20 -54 -94 Z"/>
+        <path class="t2" d="M458 470 q30 50 70 60 q14 4 10 14 q-40 4 -92 -62 Z"/>
+      </g>
+
+      <!-- body / head silhouette -->
+      <path d="M232 250
+               L246 160 Q250 146 262 154 L312 196
+               Q360 182 408 196 L458 154 Q470 146 474 160 L488 250
+               Q512 300 500 360 Q490 470 360 500 Q230 470 220 360 Q208 300 232 250 Z" fill="#2d333b" stroke="#7cc0ff" stroke-opacity=".55" stroke-width="3"/>
+      <g class="earL"><path d="M246 160 Q250 146 262 154 L312 196 L252 230 Z" fill="#2d333b"/><path d="M252 230 L246 160 Q250 146 262 154 L312 196" fill="none" stroke="#7cc0ff" stroke-opacity=".55" stroke-width="3"/></g>
+
+      <!-- face -->
+      <path d="M262 300 Q262 250 312 250 Q360 262 408 250 Q458 250 458 300 Q458 400 360 404 Q262 400 262 300 Z" fill="#f1c9a5"/>
+      <!-- eyes -->
+      <ellipse cx="318" cy="318" rx="24" ry="30" fill="#ad5c51"/>
+      <ellipse cx="402" cy="318" rx="24" ry="30" fill="#ad5c51"/>
+      <ellipse class="eye" cx="322" cy="322" rx="11" ry="15" fill="#24292f"/>
+      <ellipse class="eye" cx="406" cy="322" rx="11" ry="15" fill="#24292f"/>
+      <circle cx="326" cy="314" r="4" fill="#fff"/>
+      <circle cx="410" cy="314" r="4" fill="#fff"/>
+      <!-- nose + mouth -->
+      <ellipse cx="360" cy="352" rx="9" ry="6" fill="#ad5c51"/>
+      <path d="M350 366 Q360 376 370 366" fill="none" stroke="#ad5c51" stroke-width="4" stroke-linecap="round"/>
+      <!-- whiskers -->
+      <g stroke="#ad5c51" stroke-width="3" stroke-linecap="round">
+        <path d="M296 356 L250 348"/><path d="M296 366 L252 372"/>
+        <path d="M424 356 L470 348"/><path d="M424 366 L468 372"/>
+      </g>
+    </g>
+
+    <!-- laptop -->
+    <ellipse cx="360" cy="520" rx="180" ry="70" fill="url(#screenGlow)" class="screen"/>
+    <path d="M220 590 L250 480 L470 480 L500 590 Z" fill="#c7ccd6"/>
+    <path d="M230 584 L256 488 L464 488 L490 584 Z" fill="#aab1bd"/>
+    <!-- sticker: brackets -->
+    <rect x="322" y="514" width="76" height="40" rx="10" fill="#F7941D"/>
+    <text class="mono" x="360" y="541" text-anchor="middle" font-size="20" font-weight="700" fill="#fff">&lt;/&gt;</text>
+    <rect x="196" y="586" width="328" height="12" rx="6" fill="#8d95a3"/>
+
+    <!-- tentacle tips typing -->
+    <g class="tapL"><ellipse cx="250" cy="584" rx="22" ry="11" fill="#2d333b" stroke="#7cc0ff" stroke-opacity=".55" stroke-width="3"/></g>
+    <g class="tapR"><ellipse cx="470" cy="584" rx="22" ry="11" fill="#2d333b" stroke="#7cc0ff" stroke-opacity=".55" stroke-width="3"/></g>
+
+    <!-- terminal line -->
+    <text class="mono" x="60" y="670" font-size="20" fill="#8b93a7"><tspan fill="#28c840">$</tspan> git commit -m "ship it"<tspan class="cur" fill="#F7941D"> ▍</tspan></text>
+
+    <rect x="1" y="1" width="718" height="718" rx="40" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-label="Let's build something — sandeepa.online">
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace; }
+    .sans { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+    @keyframes rise { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: none; } }
+    @keyframes shine { from { transform: translateX(-700px); } to { transform: translateX(1700px); } }
+    @keyframes wave { 0%,100% { transform: translateY(0); } 50% { transform: translateY(14px); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    .a1 { animation: rise .8s ease-out .2s both; }
+    .a2 { animation: rise .8s ease-out .5s both; }
+    .a3 { animation: rise .8s ease-out .8s both; }
+    .shine { animation: shine 5s ease-in-out infinite; }
+    .w1 { animation: wave 7s ease-in-out infinite; }
+    .w2 { animation: wave 9s ease-in-out 1s infinite; }
+    .cursor { animation: blink 1s step-end infinite; }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0" stop-color="#0b1220"/><stop offset=".5" stop-color="#101a2c"/><stop offset="1" stop-color="#1a1208"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" x2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#F7941D"/></linearGradient>
+    <linearGradient id="sh" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1600" height="500" rx="36"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1600" height="500" fill="url(#bg)"/>
+    <path class="w1" d="M0 400 C300 340 500 460 800 400 S1300 340 1600 400 V520 H0Z" fill="#1E90FF" fill-opacity=".14"/>
+    <path class="w2" d="M0 430 C260 470 560 370 860 430 S1360 470 1600 420 V520 H0Z" fill="#F7941D" fill-opacity=".14"/>
+    <rect class="shine" x="0" y="0" width="600" height="500" fill="url(#sh)"/>
+
+    <text class="mono a1" x="800" y="120" text-anchor="middle" font-size="20" fill="#F7941D" letter-spacing="6">// 04 — LET'S CONNECT</text>
+    <text class="sans a2" x="800" y="215" text-anchor="middle" font-size="76" font-weight="800" fill="url(#title)" letter-spacing="-2">Let's build something great.</text>
+    <text class="mono a3" x="800" y="290" text-anchor="middle" font-size="26" fill="#e6e9f0">$ sandeepa.online<tspan class="cursor" fill="#F7941D"> ▍</tspan></text>
+    <text class="sans a3" x="800" y="340" text-anchor="middle" font-size="20" fill="#8b93a7">Websites · AI chatbots · Online stores · Cloud &amp; DevOps — Sri Lanka, working worldwide</text>
+
+    <rect x="1" y="1" width="1598" height="498" rx="36" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="2"/>
+  </g>
+</svg>
