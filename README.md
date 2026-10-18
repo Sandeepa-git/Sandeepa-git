@@ -63,7 +63,7 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
 <br>
 <a href="https://sandeepa.online/#contact"><img src="https://img.shields.io/badge/Hire%20me-F7941D?style=for-the-badge&logo=rocket&logoColor=white" alt="Hire me" /></a>
 <br>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=sandeepa-git.sandeepa-git&left_color=gray&right_color=0e75b6" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=sandeepa-git&label=Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
 </div>
 
