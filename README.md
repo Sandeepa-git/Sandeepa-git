@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://sandeepa.online">
-    <img width="100%" src="./assets/hero.svg" alt="Sandeepa Wimalasiri — Cloud & Full-Stack Engineer" />
+    <img width="100%" src="./assets/hero.svg" alt="Sandeepa Wimalasiri — Cloud &amp; Full-Stack Engineer" />
   </a>
 </p>
 
@@ -133,8 +133,8 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
 <h2 align="center">Activity</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sandeepa-git&show_icons=true&hide_border=true&bg_color=0b0f18&title_color=F7941D&icon_color=7cc0ff&text_color=e6e9f0&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepa-git&layout=compact&hide_border=true&bg_color=0b0f18&title_color=F7941D&text_color=e6e9f0" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sandeepa-git&show_icons=true&hide_border=true&bg_color=0b0f18&title_color=F7941D&icon_color=7cc0ff&text_color=e6e9f0&cache_seconds=86400" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepa-git&layout=compact&hide_border=true&bg_color=0b0f18&title_color=F7941D&text_color=e6e9f0&cache_seconds=86400" alt="Top languages" />
 </p>
 
 <p align="center">
