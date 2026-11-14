@@ -133,8 +133,7 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
 <h2 align="center">Activity</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sandeepa-git&show_icons=true&hide_border=true&bg_color=0b0f18&title_color=F7941D&icon_color=7cc0ff&text_color=e6e9f0&cache_seconds=86400" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepa-git&layout=compact&hide_border=true&bg_color=0b0f18&title_color=F7941D&text_color=e6e9f0&cache_seconds=86400" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sandeepa-git&show_icons=true&hide_border=true&bg_color=0b0f18&title_color=F7941D&icon_color=7cc0ff&text_color=e6e9f0&cache_seconds=1800" alt="GitHub stats" />
 </p>
 
 <p align="center">
@@ -152,7 +151,7 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="100%" src="./assets/pets.svg" alt="Dev pets: a rubber duck giving debugging advice, a cat that never catches the bug, an on-call dog sleeping through a pager alert, and a bird asking to deploy on Friday" />
+  <img width="100%" src="./assets/pets.svg" alt="Dev pets: a rubber duck giving debugging advice, a cat that never catches the bug, an on-call dog sleeping through a pager alert, and a bird asking why the code is still broken." />
 </p>
 
 <p align="center"><img width="100%" alt="Octocat moving through the CI/CD pipeline" src="./assets/pipeline-7.svg" /></p>
