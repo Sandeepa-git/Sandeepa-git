@@ -54,7 +54,6 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
 
 <div align="center">
 
-
 <img width="420" src="./assets/octocat.svg" alt="Animated Octocat coding on a laptop" />
 
 <br><br>
@@ -62,8 +61,6 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
 <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/b3b04af9-2237-4437-834d-ba28cef3ea1c"><img src="https://img.shields.io/badge/Microsoft-Student%20Ambassador-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Student Ambassador" /></a>
 <br>
 <a href="https://sandeepa.online/#contact"><img src="https://img.shields.io/badge/Hire%20me-F7941D?style=for-the-badge&logo=rocket&logoColor=white" alt="Hire me" /></a>
-<br>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=sandeepa-git.sandeepa-git&left_color=gray&right_color=0e75b6" alt="Profile views" />
 
 </div>
 
@@ -125,26 +122,6 @@ Writing tutorials at <a href="https://sandeepa.online/blog">sandeepa.online/blog
 <p align="center"><a href="https://sandeepa.online/portfolio"><b>Explore all projects →</b></a></p>
 
 <p align="center"><img width="100%" alt="Octocat moving through the CI/CD pipeline" src="./assets/pipeline-5.svg" /></p>
-
-<!-- ========================================================= -->
-<!--                      OBSERVABILITY                        -->
-<!-- ========================================================= -->
-
-<h2 align="center">Activity</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sandeepa-git&show_icons=true&hide_border=true&bg_color=0b0f18&title_color=F7941D&icon_color=7cc0ff&text_color=e6e9f0&cache_seconds=1800" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sandeepa-git&theme=dark&hide_border=true&background=0b0f18&ring=F7941D&fire=F7941D&currStreakLabel=F7941D" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="96%" src="https://raw.githubusercontent.com/Sandeepa-git/Sandeepa-git/output/github-contribution-grid-snake-dark.svg?v=2" alt="Contribution snake" />
-</p>
-
-<p align="center"><img width="100%" alt="Octocat moving through the CI/CD pipeline" src="./assets/pipeline-6.svg" /></p>
 
 <!-- ========================================================= -->
 <!--                        DEV PETS                           -->
